@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&display=swap');
 
 body {
-  background-color: #fffaf0;
+  background-color: #fff;
   font-family: 'Alegreya', serif;
   font-weight:500;
   font-size:14px;
@@ -16,14 +16,14 @@ h1 {
 
 .grade {
   font-family: 'Alegreya', serif;
-  color: #965e7f;
+  color: #000;
   margin-left: 10px;
   font-weight:700;
 }
 
 .joker {
   font-family: 'Alegreya', serif;
-  color: #555f74;
+  color: #000;
   margin-left: 60px;
   font-weight:500;
 }

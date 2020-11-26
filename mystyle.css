@@ -1,28 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body {
-  background-color: #f5f5f5;
-  font-family: 'Roboto', serif;
+  background-color: #eee;
+  font-family: 'serif', serif;
   font-weight:400;
-  font-size:medium;
+  font-size:small;
   line-height:1.3;
-  color:#000;
+  color:#444;
 }
 
 h1 {
-  font-family: 'Roboto', serif;
+  font-family: 'serif', serif;
   margin-left: 20px;
 }
 
 .grade {
-  font-family: 'Roboto', serif;
+  font-family: 'serif', serif;
   color: #FF4136;
   margin-left: 10px;
   font-weight:700;
 }
 
 .joker {
-  font-family: 'Roboto', serif;
+  font-family: 'serif', serif;
   margin-left: 60px;
   font-weight:500;
 }

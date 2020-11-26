@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  background-color: #FFFFCC;
+  background-color: #1f1f1f;
   font-family: 'Noto Serif', serif;
   font-weight:500;
   font-size:medium;
   line-height:1.3;
+  color:#b3d5e3;
 }
 
 h1 {
   font-family: 'Noto Serif', serif;
-  color: #555f74;
   margin-left: 20px;
 }
 
@@ -23,7 +23,6 @@ h1 {
 
 .joker {
   font-family: 'Noto Serif', serif;
-  color: #000;
   margin-left: 60px;
   font-weight:500;
 }

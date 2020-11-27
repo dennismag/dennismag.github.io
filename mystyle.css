@@ -6,9 +6,14 @@ body {
   font-weight:500;
   font-size:normal;
   line-height:1.3;
-  color:#000;
+  color:#333;
 }
- 
+
+.main_content {
+float:left;
+width:66.66666667%;
+}
+
 h1 {
   font-family: 'EB Garamond', serif;
   margin-left: 20px;

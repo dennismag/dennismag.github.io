@@ -9,6 +9,8 @@ body {
   color:#444;
 }
 
+ .fa { font-family: 'FontAwesome' !important; } 
+ 
 h1 {
   font-family: 'noto sans', serif;
   margin-left: 20px;
